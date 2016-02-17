@@ -2,9 +2,7 @@
 OpenGL4.5 point related features. Demonstrating how point size, point sprite, coord origin, clip origin affect each other.
 
 Key 1   : Use programmable pipeline(default)
-
 Key 2   : Use fixfunction pipeline
-
 
 Key 3   : Enable ProgramPointSize
 
